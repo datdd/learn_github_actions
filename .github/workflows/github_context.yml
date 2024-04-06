@@ -1,3 +1,4 @@
+name: Github contexts
 on:
   workflow_dispatch:
 env:
